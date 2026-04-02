@@ -1,0 +1,30 @@
+{
+    "host": "localhost",
+    "port": 4455,
+    "password": [pon-tu-password],
+    "voice_threshold": 0.03,
+    "min_cut_cooldown": 2.0,
+    "voice_hold_time": 1.0,
+    "lower_third_duration": 5.0,
+    "commands": {
+        "ads": [
+            "publicidad",
+            "mensajes",
+            "pausa comercial",
+            "patrocinadores"
+        ],
+        "back": [
+            "estamos de vuelta",
+            "continuamos",
+            "regresamos",
+            "seguimos"
+        ],
+        "outro": [
+            "hasta aquí",
+            "próximo capítulo",
+            "nos vemos",
+            "despedimos",
+            "hasta la próxima"
+        ]
+    }
+}
